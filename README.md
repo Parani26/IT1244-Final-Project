@@ -68,18 +68,6 @@ Features are scored across these methods, and only the most significant are reta
 - [Principal Component Analysis](https://www.ibm.com/topics/principal-component-analysis)
 - [Recursive Feature Elimination for Feature Selection](https://medium.com/@rithpansanga/logistic-regression-for-feature-selection-selecting-the-right-features-for-your-model-410ca093c5e0)
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open the notebooks in Jupyter or VS Code.
-3. Run the preprocessing steps to prepare the data.
-4. Execute model training and evaluation cells for each scenario.
-5. Review the results and visualizations to compare model performance.
-
-## Author
-
-Forked and maintained by dhxrth.
-
 ## License
 
 See LICENSE file for details.
